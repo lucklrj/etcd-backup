@@ -5,3 +5,5 @@ log/
 catalyst_config.yml
 /etcd-configuration.json
 /etcd-dump.json
+/vendor
+/.idea
